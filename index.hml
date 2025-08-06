@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Bienvenue sur Fullah-Dev</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f2f2f2;
+      padding: 20px;
+    }
+    img {
+      width: 200px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>👋 Salut, je suis Oumou !</h1>
+  <p>Voici mon tout premier site web. Je suis en train d’apprendre à coder grâce au projet Fullah-Dev.</p>
+
+  <img src="images/photo.jpg" alt="Photo de profil">
+
+  <hr>
+
+  <h2>À propos</h2>
+  <p>Je suis passionnée par le développement web et j’apprends HTML, CSS et JavaScript pas à pas.</p>
+
+  <h2>Mes projets</h2>
+  <ul>
+    <li>Portfolio personnel (en cours)</li>
+    <li>Page “À propos de moi”</li>
+    <li>Section de contact</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Retrouvez-moi sur <a href="https://github.com/LamidhoPoulo" target="_blank">GitHub</a></p>
+
+</body>
+</html>
+ajouter a la page d'accueil 
