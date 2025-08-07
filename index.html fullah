@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>fullah_dev</title>
+      <link rel="stylesheet" href="style.css">
+      </head>
+      <body>
+        <h1>Ciao Buongiorno Ici Fullah_Dev</h1>
+        <img src="https://via.placeholder.com/150" alt="photo de profil">
+        <p>je suis passionné par les nouvelles technologies, le développement web et j'apprends chaque jour.</p>
+        <button onclick="changecouleur()">changer de couleur</button>
+
+        <script src="script.js"></script>
+      </body>
+</html>
